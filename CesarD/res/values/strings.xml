@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">CesarDesignz</string>
+    
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="menu_settings">Settings</string>
+    
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="edit_message"> Entrez un message </string>
+    
+    <string name="button_send"> Envoyer </string>
+
+</resources>   

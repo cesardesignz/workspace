@@ -1,0 +1,10 @@
+
+
+ <resources>
+     <string name="app_name"> Ma première application </ string>
+     <string name="edit_message"> Entrez un message </ string>
+     <string name="button_send"> Envoyer </ string>
+     <string name="menu_settings"> Paramètres </ string>
+     <string name="title_activity_main"> MainActivity </ string>
+ </ Resources> 
+ 
