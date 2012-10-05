@@ -1,4 +1,3 @@
-
 package com.cdesignz;
 
 import android.app.Activity;
@@ -23,6 +22,6 @@ public class MainActivity extends Activity {
 
 
 public void sendMessage(View view) {
-   // Do Something *//
+   // Do Something   *//    
 		}
 }
